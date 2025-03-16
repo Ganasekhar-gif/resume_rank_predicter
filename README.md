@@ -52,7 +52,7 @@ Installation Instructions
 
 Clone the repository:
 
-git clone https://github.com/your-username/resume-rank-predictor.git
+git clone (https://github.com/Ganasekhar-gif/resume_rank_predicter.git)
 cd resume-rank-predictor
 
 Install dependencies:
